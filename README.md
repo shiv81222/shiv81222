@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv81222&label=Profile%20views&color=0e75b6&style=flat" alt="shiv81222" /> </p>
 
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django, Database Connectivity, **
 
 - 💬 Ask me about **Python, Html, Css, Javascript, Bootstrap,**
 
