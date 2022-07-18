@@ -1,4 +1,4 @@
-<img align="center" alt="coding"  width="100px" src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=790b7611041d98eef796f8f7d66f6ebf93d5bd01a1af3923&rid=giphy.gif&ct=g">
+<img align="center" alt="coding"  width="1200px" src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=790b7611041d98eef796f8f7d66f6ebf93d5bd01a1af3923&rid=giphy.gif&ct=g">
 
 
 <h1 align="center">Hi 👋, I'm shiva</h1>
